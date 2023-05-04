@@ -15,7 +15,7 @@ streamlit run run.py
 
 - **command line output：**
 
-![image-20230504111653875](https://cdn.jsdelivr.net/gh/SnowOnVolcano/imagebed/202305041116981.png)
+  ![image-20230504111653875](https://cdn.jsdelivr.net/gh/SnowOnVolcano/imagebed/202305041121354.png)
 
 - **web interactive GUI**
 
